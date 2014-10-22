@@ -1,0 +1,23 @@
+{
+  "name": "loop-grid-holder",
+  "version": "0.0.0",
+  "description": "Beat stutter/looper transform for loop-grid.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmckegg/loop-grid-holder.git"
+  },
+  "author": "Matt McKegg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmckegg/loop-grid-holder/issues"
+  },
+  "homepage": "https://github.com/mmckegg/loop-grid-holder",
+  "devDependencies": {
+    "array-grid": "^1.4.0",
+    "tape": "^3.0.1"
+  }
+}
