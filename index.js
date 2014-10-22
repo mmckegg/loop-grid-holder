@@ -43,6 +43,7 @@ function Holder(transform){
       }
       if (typeof doneCallback == 'function'){
         doneCallback()
+        doneCallback = null
       }
     }
   }
