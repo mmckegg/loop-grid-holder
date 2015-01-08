@@ -63,7 +63,7 @@ function hold(input, start, length, indexes){
         if (inRange(from, to, event[0])){
           event = event.concat()
           event[0] = event[0] % length
-          event[1] = Math.min(event[1], length)
+          event[1] = Math.min(event[1], length/2)
           events.push(event)
         }
       })
