@@ -1,6 +1,6 @@
 {
   "name": "loop-grid-holder",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Beat stutter/looper transform for loop-grid.",
   "main": "index.js",
   "scripts": {
